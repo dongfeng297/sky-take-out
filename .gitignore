@@ -1,0 +1,9 @@
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
+#不上传application-dev.yml
+application-dev.yml
+src/main/resources/application-dev.yml
